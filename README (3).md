@@ -1,6 +1,6 @@
 # ☕ Monday Coffee — City Expansion Analysis
 
-> **An end-to-end SQL project to identify the top 3 Indian cities for Monday Coffee's first physical store expansion — driven entirely by data.**
+> ** SQL project to identify the top 3 Indian cities for Monday Coffee's first physical store expansion — driven entirely by data.**
 
 ---
 
