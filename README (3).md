@@ -205,9 +205,10 @@ monday-coffee-expansion-sql/
 
 If you found this project helpful or want to discuss data analytics, feel free to reach out!
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- 📧 YOUR_EMAIL@gmail.com
-- 🐙 [GitHub](https://github.com/YOUR_USERNAME)
+- 💼 [LinkedIn](www.linkedin.com/in/ajay-yadav-457610332)
+- 📧 sy4573924@gmail.com
+
+- 🐙 [GitHub](https://github.com/Ajay92146)
 
 ---
 
